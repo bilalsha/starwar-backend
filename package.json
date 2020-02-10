@@ -1,0 +1,26 @@
+{
+  "name": "starwar-backend",
+  "version": "1.0.0",
+  "description": "Star Wars Movies Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalsha/starwar-backend.git"
+  },
+  "author": "Bilal Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilalsha/starwar-backend/issues"
+  },
+  "homepage": "https://github.com/bilalsha/starwar-backend#readme",
+  "devDependencies": {
+    "serverless-bundle": "^1.2.5",
+    "serverless-dotenv-plugin": "^2.1.1",
+    "serverless-offline": "^5.3.3"
+  },
+  "dependencies": {}
+  
+}
